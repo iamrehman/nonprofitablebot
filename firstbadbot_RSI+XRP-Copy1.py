@@ -7,8 +7,8 @@
 from binance.client import Client
 import pandas as pd
 
-API_KEY = 'plGnPKANetCu4LAzt9Bwp3OFj6inSTSbhc1iVoEpItGSoeDm18Rszmruek50qPfS'
-API_SECRET = 'h9Hh1BCObXSCmNg4AtFQto81V5msxw4vLNO4TOMgdX9XYrkWbWZ8xzCTFi4bK7zX'
+API_KEY = ''
+API_SECRET = ''
 client = Client(API_KEY, API_SECRET)
 
 symbol = 'ALGOUSDT'
